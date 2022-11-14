@@ -1,0 +1,33 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    background-image: url('фоточки/космос.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;}
+h1{
+    text-align: center;
+  color: aliceblue;
+    font-size: 80px;
+    font-family: 'Comfortaa', cursive;
+}
+p{
+    color: antiquewhite;
+}
+.минизаголовок{ 
+   color: aliceblue;
+    font-size: 40px;
+}
+.картина{
+    width: 98%;
+}
+audio{
+    width: 1000px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
